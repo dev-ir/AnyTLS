@@ -27,13 +27,13 @@ A one-click shell script to install, update, manage, and uninstall the [anytls-g
 ### 1. Download the script
 
 ```bash
-wget -O anytls_manager.sh https://raw.githubusercontent.com/tianrking/AnyTLS-Go/refs/heads/main/anytls_manager.sh
+wget -O anytls_manager.sh https://raw.githubusercontent.com/dev-ir/AnyTLS/refs/heads/master/main.sh
 ```
 
 Or with curl:
 
 ```bash
-curl -o anytls_manager.sh -L https://raw.githubusercontent.com/tianrking/AnyTLS-Go/refs/heads/main/anytls_manager.sh
+curl -o anytls_manager.sh -L https://raw.githubusercontent.com/dev-ir/AnyTLS/refs/heads/master/main.sh
 ```
 
 ### 2. Make it executable
