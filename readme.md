@@ -1,7 +1,3 @@
-در ادامه نسخه‌ی انگلیسی و ویرایش‌شده‌ی فایل README برای اسکریپت مدیریت AnyTLS-Go را می‌بینی. موارد اضافی مثل کیف پول و تصاویر حذف شده‌اند و متن ساده، فنی و آماده‌ی انتشار در GitHub است:
-
----
-
 # AnyTLS-Go Server Management Script (v0.0.8)
 
 A one-click shell script to install, update, manage, and uninstall the [anytls-go](https://github.com/anytls/anytls-go) server on Linux.
@@ -116,14 +112,3 @@ The following clients are known to support the AnyTLS protocol and can be used w
   → GitHub: [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo)
 
 > ⚠️ Since AnyTLS-Go uses a self-signed certificate, most clients will require enabling “Allow Insecure” or “Skip Certificate Verification”.
-
-## ⚠️ Disclaimer
-
-This script is for educational and technical research purposes only.
-Do **not** use it for any illegal activity.
-Users are responsible for their own use and must comply with local laws and regulations.
-The author assumes no responsibility for any issues or consequences arising from the use of this script.
-
----
-
-If you'd like, I can generate a ready-to-use `README.md` file for you as well.
